@@ -1,0 +1,28 @@
+- id: last_mod_on
+  translation: Последние изменение {{ .Format "2006-01-02" }}
+- id: format_date
+  translation: '{{ .Format "2006-01-02" }}'
+- id: format_date_tosec
+  translation: '{{ .Format "2006-01-02 15:04" }}'
+- id: next_link
+  translation: Далее
+- id: prev_link
+  translation: Ранее
+- id: no_newer_posts
+  translation: Более новых постов нет.
+- id: no_older_posts
+  translation: Более старых постов нет.
+- id: comments_disabled
+  translation: Комментарии выключены.
+- id: comments_activate_js
+  translation: Пожалуйста включите JavaScript для просмотра комментарией.
+- id: hugo_theme
+  translation: Hugo Theme
+- id: ported_from
+  translation: Портировано с
+- id: by
+  translation: by
+- id: draft
+  translation: DRAFT
+- id: toc_title
+  translation: CATALOG
